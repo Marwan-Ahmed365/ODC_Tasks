@@ -1,0 +1,72 @@
+Task1: What is OOD? why we use it? who use it?
+
+object oriented design: In object-oriented system design and development, OOD helps in designing the system architecture or layout - usually after completion of an object-oriented analysis (OOA)
+
+(. The goal of object-oriented design is to create an architecture for implementation. Designs are represented in terms of objects and classes and the relationships among them. 
+ . Object-oriented design centers on finding an appropriate set of classes and defining their contents and behavior. It involves determining the proper use set of classes and then filling in the details of their implementation. Object-oriented design is fundamentally a three-step process: identifying the classes, characterizing them, and then defining the associated actions.)
+
+ reduce development time, reduce the time and resources required to maintain existing applications, increase code reuse, and provide a competitive advantage to organizations that use it
+
+(. Does the design satisfy all the requirements and constraints, and provide all required services?
+ . Is the design flexible enough to permit future changes and enhancements easily?
+ . Is the design feasible for actual implementation, and, if so, can it be implemented efficiently?
+ . Will the implementation of the design be deployable on the required platform with relative ease?)
+
+=> archutectural
+=================================================
+Task2: What is the operating system core ?
+ 
+▫ core: kernel
+▫ core language: C
+
+============================================
+Task3: اول 10لغات في العالم
+
+▫   Assembly عام 1949.
+▫  Fortran عام 1957.
+▫  Lisp في عام 1958 من قِبل المطور “John Mccarthy”.
+▫  Cobol عام 1959.
+▫  Basic سنة 1964.
+▫  Pascal سنة 1970 من قِبل المطور “Nikilaus Wirth”.
+▫  C سنة 1972 من قِبل المطور “Dennis Ritchie”.
+▫  My SQL سنة 1974.
+▫  Objective C ، ++C سنة 1983.
+▫  Perl عام 1987 من قِبل المطور “Larry Wall”.
+▫  HTML ، Haskell  عام 1990.
+▫  Python عام 1991 من قِبل المُطوّر “Guido Van Rossum”.
+▫  Ruby في عام 1993 من قِبل المطور “Yukihiro Matsumoto”.
+
+===========================================
+Task4: What are the type of languages that we could use in giving instructions?
+
+Machine code, also known as machine language, is the elemental language of computers. It is read by the computer's central processing unit (CPU), is composed of digital binary numbers and looks like a very long sequence of zeros and ones
+
+==================================
+Task5: What is the new programming language that have the same syntax of python and as fast as C?
+
+. Go
+. julia
+
+===================================
+Task6: List 1o programming languages open source and 10 not open source
+
+open source : 1.JavaScript, 2.Python, 3.PHP, 4.Swift, 5.R,  6.julia, 7.Go, 8.Kotlin, 9.Scala, 10.Ruby4 
+
+closed source : 1.VBScript, 2.c#, 3.Matlab, 4.Microfocus COBOL,  5.IBM's mainframe, 6.AIX,  7.linux compilers, 8.ASP, 9.Objective C, 10.java
+
+================================================
+Task7: What are JavaScript advantages?
+
+1.Speed, 2.Simplicity, 3.Popularity, 4.Interoperability, 5.Server Load, 6.Rich Interfaces, 7.Extended Functionality, 8.Versatility, 9.Less Overhead
+
+========================================
+Task8:What is fragmentation?
+
+- It is an empty space in the memory that is not being used
+ 
+1.External Fragmentation - total memory space exists to satisfy a request, but it is not sontiguous
+
+2.Internal Fragmentation - allocated memory may be slightly larger than requested memory, this size difference is memory internal to a partition, but not used 
+=> given N blocks allocated, N/2 blocks lost to fragmentation 
+
+solution (external) = defragmentation (compaction) 
